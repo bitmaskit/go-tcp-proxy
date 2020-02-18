@@ -1,2 +1,3 @@
 # go-tcp-proxy
-Go TCP Proxy
+## Very simple TCP Proxy
+#### Demonstration purposes only, do not use in production 🙂
