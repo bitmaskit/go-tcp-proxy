@@ -3,7 +3,8 @@
 #### Demonstration purposes only, do not use in production 🙂
 
 ```shell script
-$ go run echo-server.go
-$ go run proxy-server.go
-$ nc 0.0.0.0 80
+$ make all
+$ ./bin/echoserver
+$ ./bin/proxyserver
+$ nc 0.0.0.0 7
 ```
