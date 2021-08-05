@@ -1,0 +1,2 @@
+This is a TCP echo server as defined in
+https://datatracker.ietf.org/doc/html/rfc862
